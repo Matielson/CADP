@@ -3,6 +3,10 @@
 Repositorio correspondiente a la materia **Conceptos de Algoritmos y Programas (CADP)**  
 📍 Licenciatura en Sistemas – Facultad de Informática – **UNLP**
 
+> ⚠️ Aclaración
+> Este material tiene fines **educativos**.  
+> Puede contener resoluciones personales y no garantiza que sean las únicas ni las óptimas.
+
 ## 📌 Descripción
 En este repositorio se encuentran ejercicios, prácticas y trabajos desarrollados a lo largo de la cursada de CADP.  
 El objetivo es aplicar conceptos fundamentales de programación estructurada y resolución de problemas mediante algoritmos.
@@ -16,18 +20,6 @@ El objetivo es aplicar conceptos fundamentales de programación estructurada y r
 - Procedimientos y funciones
 - Vectores y registros
 - Manejo de listas y punteros
-
-## 📂 Organización del repositorio
-El repositorio se encuentra organizado por prácticas y/o temas, por ejemplo:
-CADP/
-├── Practica1/
-├── Practica2/
-├── Practica3/
-└── Parciales/
-
-## ⚠️ Aclaración
-Este material tiene fines **educativos**.  
-Puede contener resoluciones personales y no garantiza que sean las únicas ni las óptimas.
 
 ## 👤 Autor
 **Matías Núñez**  
