@@ -3,6 +3,7 @@
 Repositorio correspondiente a la materia **Conceptos de Algoritmos y Programas (CADP)**  
 📍 Licenciatura en Sistemas – Facultad de Informática – **UNLP**
 
+
 > --------------------------------------------------------------------------------------------
 > 
 > ⚠️ Aclaración
@@ -10,6 +11,7 @@ Repositorio correspondiente a la materia **Conceptos de Algoritmos y Programas (
 > Puede contener resoluciones personales y no garantiza que sean las únicas ni las óptimas.
 > 
 > --------------------------------------------------------------------------------------------
+
 
 ## 📌 Descripción
 En este repositorio se encuentran ejercicios, prácticas y trabajos desarrollados a lo largo de la cursada de CADP.  
