@@ -27,5 +27,9 @@ El objetivo es aplicar conceptos fundamentales de programación estructurada y r
 - Vectores y registros
 - Manejo de listas y punteros
 
+## 📂 Organización del repositorio
+El repositorio se encuentra organizado por prácticas y/o temas.
+En la carpeta de cada practica, encontraran un .docx con los links de codeshare.io con la resolucion del problema.
+
 ## 👤 Autor
 **Matias Nuñez**  
