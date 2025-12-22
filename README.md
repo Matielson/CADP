@@ -28,5 +28,4 @@ El objetivo es aplicar conceptos fundamentales de programación estructurada y r
 - Manejo de listas y punteros
 
 ## 👤 Autor
-**Matías Núñez**  
-Estudiante de Licenciatura en Sistemas – UNLP
+**Matias Nuñez**  
