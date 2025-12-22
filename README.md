@@ -15,7 +15,7 @@ El objetivo es aplicar conceptos fundamentales de programación estructurada y r
 - Estructuras de control (condicionales y repetitivas)
 - Procedimientos y funciones
 - Vectores y registros
-- Manejo básico de listas
+- Manejo de listas y punteros
 
 ## 📂 Organización del repositorio
 El repositorio se encuentra organizado por prácticas y/o temas, por ejemplo:
