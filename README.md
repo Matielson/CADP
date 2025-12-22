@@ -1,2 +1,34 @@
-# CADP
-Material y practicas de la materia Conceptos de Algoritmos, Datos y programas – Licenciatura en Sistemas (UNLP)
+# CADP – Conceptos de Algoritmos y Programas
+
+Repositorio correspondiente a la materia **Conceptos de Algoritmos y Programas (CADP)**  
+📍 Licenciatura en Sistemas – Facultad de Informática – **UNLP**
+
+## 📌 Descripción
+En este repositorio se encuentran ejercicios, prácticas y trabajos desarrollados a lo largo de la cursada de CADP.  
+El objetivo es aplicar conceptos fundamentales de programación estructurada y resolución de problemas mediante algoritmos.
+
+## 🧠 Contenidos principales
+- Introducción a los algoritmos
+- Programación estructurada
+- Lenguaje **Pascal**
+- Variables, tipos de datos y estructuras
+- Estructuras de control (condicionales y repetitivas)
+- Procedimientos y funciones
+- Vectores y registros
+- Manejo básico de listas
+
+## 📂 Organización del repositorio
+El repositorio se encuentra organizado por prácticas y/o temas, por ejemplo:
+CADP/
+├── Practica1/
+├── Practica2/
+├── Practica3/
+└── Parciales/
+
+## ⚠️ Aclaración
+Este material tiene fines **educativos**.  
+Puede contener resoluciones personales y no garantiza que sean las únicas ni las óptimas.
+
+## 👤 Autor
+**Matías Núñez**  
+Estudiante de Licenciatura en Sistemas – UNLP
