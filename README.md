@@ -30,4 +30,6 @@ El repositorio se encuentra organizado por prácticas y/o temas.
 En la carpeta de cada practica, encontraran un .docx con los links de codeshare.io con la resolucion del problema.
 
 ## 👤 Autor
-**Matias Nuñez**  
+**Mati Nuñez**  
+Estudiante de Licenciatura en Sistemas – UNLP
+
